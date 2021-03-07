@@ -1,0 +1,24 @@
+
+
+#DivSuperior{
+	background-color: green;
+	float: center;
+	width: 100px;
+	height:100px;
+	
+}
+
+#DivEsquerda{
+	background-color: red;
+	float: left;
+	width: 100px;
+	height:100px;
+}
+
+#DivDireita{
+	background-color: blue;
+	float: left;
+	width: 100px;
+	height:100px;
+	
+}
